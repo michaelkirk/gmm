@@ -37,7 +37,8 @@ setup(name="gmm_specializer",
       packages=["gmm_specializer"],
       install_requires=[
         "asp",
-        "scikit_learn"
+        "scikit_learn",
+        "numpy"
           ],
      )
 
